@@ -98,7 +98,7 @@ plant-disease-detection/
 
 The model used for disease detection is based on **Convolutional Neural Networks (CNNs)** and was trained on a dataset of plant disease images from the [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data). It has been fine-tuned to classify the input images into various categories based on the disease.
 
----
+
 
 ## 👩‍💻 How to Contribute
 
@@ -109,13 +109,12 @@ The model used for disease detection is based on **Convolutional Neural Networks
 5. Push to the branch (`git push origin feature-name`).
 6. Create a pull request.
 
----
+
 
 ## 📑 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 ## 💬 Contact
 
