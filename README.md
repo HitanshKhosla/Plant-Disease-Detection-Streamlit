@@ -77,7 +77,7 @@ streamlit run app/main.py
 
 This will launch the web application, and you can access it by opening `http://localhost:8501` in your web browser.
 
----
+
 
 ## 📂 Project Structure
 
