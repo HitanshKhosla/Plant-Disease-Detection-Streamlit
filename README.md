@@ -4,7 +4,7 @@
 
 This project uses a Convolutional Neural Network (CNN) model to detect plant diseases from images. The model is built using **TensorFlow** and deployed using **Streamlit** for a user-friendly interface. The system allows users to upload images of plants and predict the presence of diseases based on a trained model.
 
----
+
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ This project uses a Convolutional Neural Network (CNN) model to detect plant dis
 - **Model Training**: The model is trained using a dataset of plant disease images.
 - **User-Friendly**: Upload images, get instant predictions with a click of a button.
 
----
+
 
 ## 📦 Requirements
 
@@ -26,7 +26,7 @@ Before running the project, ensure you have the following dependencies:
 - Numpy
 - Other dependencies listed in `requirements.txt`
 
----
+
 
 ## 🛠️ Installation
 
@@ -63,9 +63,7 @@ source venv/bin/activate
 
 ```bash
 pip install -r requirements.txt
-```
 
----
 
 ## 🚀 Running the Application
 
@@ -94,7 +92,7 @@ plant-disease-detection/
 └── README.md                     # Project documentation
 ```
 
----
+
 
 ## 📈 Model Details
 
